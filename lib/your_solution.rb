@@ -1,3 +1,4 @@
-# Write your solution here
+# ./lib.your_solution.RUBY_VERSION
+puts "Hello World!" # Write your solution here
 
 # This file should output "Hello World!" using a puts statement
